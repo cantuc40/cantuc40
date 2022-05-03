@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![test](https://shields.io/badge/test-plastic-green?logo=appveyor&style=plastic)
+![test](https://shields.io/badge/test-hello-green?logo=appveyor&style=plastic)
