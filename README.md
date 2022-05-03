@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 
 
 
-![Khan Academy](https://img.shields.io/badge/test-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
