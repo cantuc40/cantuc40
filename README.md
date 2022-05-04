@@ -7,13 +7,14 @@ Backend Developer 💻, Photographer 📸, Musician 🎸
 </h2>
 
 
+<!--
 # Follow Me
 ![Twitter](https://img.shields.io/badge/@techrisblock-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Instagram](https://img.shields.io/badge/techrisblock-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/techrisblock-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Medium](https://img.shields.io/badge/techrisblock-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![WordPress](https://img.shields.io/badge/techrisblock-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
+-->
 <!--
 **cantuc40/cantuc40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
