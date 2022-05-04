@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 
 
-# Follow Me
-![Twitter](https://img.shields.io/badge/@techrisblock-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Instagram](https://img.shields.io/badge/techrisblock-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 # Technical Skills
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&color=%23F7DF1E)
