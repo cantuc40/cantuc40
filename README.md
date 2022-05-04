@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">
+Hi there 🙂
+</h3>
+
+<h2 align="center">
+Backend Developer 💻, Photographer 📸, Musician 🎸
+</h2>
+
+# Follow Me
+![Twitter](https://img.shields.io/badge/@techrisblock-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/techrisblock-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <!--
 **cantuc40/cantuc40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +24,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on
+- Starting a Tech Channel
+- Setting up a Blog
+
+## 🌱 I’m currently learning 
+- CircleCI
+- Unit Testing on Django
+
+
 
 # Follow Me
 ![Twitter](https://img.shields.io/badge/@techrisblock-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
