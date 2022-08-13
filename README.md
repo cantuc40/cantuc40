@@ -3,7 +3,7 @@ Hi there 🙂
 </h3>
 
 <h2 align="center">
-Backend Developer 💻, Photographer 📸, Musician 🎸
+Full-Stack Engineer 💻, Photographer 📸, Musician 🎸
 </h2>
 
 
