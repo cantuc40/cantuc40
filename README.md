@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on
-- Starting a Tech Channel
-- Setting up a Blog
-- Guitar Pedalboard App on Ruby
+- Goat-Cart with Grammarhub
+- Setting up my Portfolio
+- Improving the issue tracking app SWAT
+- Designing the Material Management software Constro
 
 ## 🌱 I’m currently learning 
 - CircleCI
